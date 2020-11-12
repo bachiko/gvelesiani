@@ -1,0 +1,9 @@
+{
+    "notes": [
+      { "id": 1, "noteName": "Note 1", "noteDescription":"Note 1 description", "isFavourite": false, "noteImage": ""},
+      { "id": 2, "noteName": "Note 2", "noteDescription":"Note 2 description", "isFavourite": false, "noteImage": ""}
+    ],
+    "profile": {
+      "name": "gvelesiani"
+    }
+  }
